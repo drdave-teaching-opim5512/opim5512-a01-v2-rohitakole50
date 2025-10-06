@@ -25,6 +25,7 @@ README.md
 1) **Open the notebook/script**
    - Use the starter in `A01-eda/notebooks/` (or create a small script).
 
+
 2) **Make exactly one EDA change**
    - Example A: change `bins=30` → `bins=12`
    - Example B: switch from column `price` → `age`
@@ -32,6 +33,10 @@ README.md
 
 3) **Export the figure**
    - Ensure your code saves a PNG to `A01-eda/figs/` (e.g., `plt.savefig("../figs/hist_tip.png", dpi=150)`).
+
+### Note about my change
+
+- I changed the histogram binning to `bins=50` and re-saved the plot into `A01-eda/figs/`. One of the files currently present is `hist_MedInc_50.png`.
 
 4) **Commit & push**
    ```bash
