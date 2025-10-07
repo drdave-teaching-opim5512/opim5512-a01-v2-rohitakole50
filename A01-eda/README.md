@@ -36,7 +36,7 @@ README.md
 
 ### Note about my change
 
-- I changed the histogram binning to `bins=50` and re-saved the plot into `A01-eda/figs/`. One of the files currently present is `hist_MedInc_50.png`.
+- I changed the histogram binning to `bins=50` and re-saved the plot into `A01-eda/figs/`. One of the files currently present is `hist_MedInc_50.png` and made the commit.
 
 4) **Commit & push**
    ```bash
